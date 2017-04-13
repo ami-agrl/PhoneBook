@@ -8,8 +8,8 @@ import bean.Contact;
 
 /**
  * 
- * @author AMIT
- * @class ContactManagementController
+ * @author AMIT AGARWAL
+ * @class ContactManagementController 
  * 
  */
 public class ContactManagementController {
